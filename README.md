@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Intermediate Programming Programs at ORU (Java) </b>
-  - [Praciting DS & Algos in C++](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Mini Programs illustrating basic and core programming concepts(Oops) in java](https://github.com/mosessaah/Intermediate-Java-Programs.git)
 - <b>Data Structures and Algorithms Practice </b>
   - [Praciting DS & Algos in C++](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python Progaming Projects (100 days of Code)</b>
