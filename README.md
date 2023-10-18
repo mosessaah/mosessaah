@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-
 - <b>Intermediate Programming Programs at ORU (Java) </b>
   - [Praciting DS & Algos in C++](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Data Structures and Algorithms Practice </b>
