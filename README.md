@@ -11,13 +11,18 @@
 - <b>Full Stack Web App (React, NodeJS,JavaScript)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-<h2> DevOps Practice and Advance Projects</h2>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Data Science Semester Project ORU (R Studio)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+<h2>👨‍💻 DevOps Practice and Advance Projects</h2>
+
+- <b>Project 1 </b>
+  - [Node js App built from scratch and deployed to AKS cluster](https://github.com/mosessaah/Intermediate-Java-Programs.git)
+- <b>Project 2 </b>
+  - [React Netflix app Containerized and pushed to Amazon ECR locally and using Jenkin for complete automation](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Project 3</b>
+  - [Provision EKS Cluster using Jenkins and Terraform ](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)    
+- <b>Project 4</b>
+  - [Docker build and push and deploy to EKS, Create helm charts for your app and publish it to the artifact hub](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Project 5 </b>
+  - [Deploy a Django Based Real Estate App to digital ocean Kubernetes Cluster](https://github.com/mosessaah/Intermediate-Java-Programs.git)
 
 <h3>📺 Popular YouTube Videos</h3>
 
