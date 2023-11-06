@@ -30,7 +30,7 @@ Skills
 <h2>👨‍💻 DevOps Practice and Advance Projects</h2>
 
 - <b>Project 1 </b>
-  - [Node js App built from scratch and deployed to AWS ECS using Jenkins](https://github.com/mosessaah/Intermediate-Java-Programs.git)
+  - [Nodejs App built from scratch, containerized and deployed to AWS ECS using Jenkins](https://github.com/mosessaah/nodejs-webapp.git)
 - <b>Project 2 </b>
   - [React Netflix app Containerized and pushed to Amazon ECR locally and using Jenkin for complete automation](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Project 3</b>
