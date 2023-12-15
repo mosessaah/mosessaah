@@ -21,22 +21,22 @@ Skills
 - <b>Intermediate Programming Programs at ORU (Java) </b>
   - [Mini Programs illustrating basic and core programming concepts(Oops) in java](https://github.com/mosessaah/Intermediate-Java-Programs.git)
 - <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algos in C++](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in C++](https://github.com/)
 - <b>Python Progaming Projects (100 days of Code)</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)    
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com)    
 - <b>Full Stack Web App (React, NodeJS,JavaScript)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com) 
 
 <h2>👨‍💻 DevOps Practice and Advance Projects</h2>
 
 - <b>Project 1 </b>
   - [Nodejs App built from scratch, containerized and deployed to AWS ECS using Jenkins](https://github.com/mosessaah/nodejs-webapp.git)
 - <b>Project 2 </b>
-  - [React Netflix app Containerized and pushed to Amazon ECR locally and using Jenkin for complete automation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [React Netflix app Containerized and pushed to Amazon ECR locally and using Jenkin for complete automation](https://github.com)
 - <b>Project 3</b>
-  - [Provision EKS Cluster using Jenkins and Terraform ](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)    
+  - [Provision EKS Cluster using Jenkins and Terraform ](https://github.com)    
 - <b>Project 4</b>
-  - [Docker build and push and deploy to EKS, Create helm charts for your app and publish it to the artifact hub](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Docker build and push and deploy to EKS, Create helm charts for your app and publish it to the artifact hub](https://github.com)
 - <b>Project 5 </b>
   - [Deploy a Django Based Real Estate App to digital ocean Kubernetes Cluster](https://github.com/mosessaah/Intermediate-Java-Programs.git)
 
