@@ -1,7 +1,7 @@
 Hi 👋 My name is Armah
 ======================
 
-DevOps/cloud Engineer and Future software engineer
+ Future Software engineer & DevOps / cloud Engineer 
 ---------------------------------------------------
 
 I love finding solutions and making a positive impact on people's life. I Love Jesus
